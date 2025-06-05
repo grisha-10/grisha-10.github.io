@@ -1,0 +1,106 @@
+.bg-1{
+    background-image: url(pexels-expect-best-79873-323780.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 400px;
+    background-attachment: fixed;
+}
+img{
+    width: 100%;
+}
+.bg-2{
+    background-image: url(pexels-expect-best-79873-323780.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 400px;
+    background-attachment: fixed;
+}
+.my-shadow{
+    box-shadow: 0px 0px 20px 10px rgb(129, 129, 129), 0px 30px 20px 10px rgb(129, 129, 129) ;
+}
+.my-list-1{
+    list-style-image: url(list-img.png);
+}
+.my-list-1 li{
+    margin-bottom: 8px;
+}
+
+.bg-3{
+    background-image:linear-gradient(rgba(221, 221, 221, 0.275), rgba(211, 211, 211, 0.275)),  url(pexels-scottwebb-532568.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* height: 400px; */
+    /* background-attachment: fixed; */
+}
+
+.text-vaznyi{
+    font-size: 1.5em;
+    /* background-color: #ffffff5a; */
+}
+.interesting-div {
+    margin-top: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    border-bottom: 1px solid rgb(5, 17, 81);
+}
+.interesting-div p{
+    font-size: 1.3em;
+    line-height: 0.9;
+}
+/*   
+  font-family: "Montserrat", sans-serif;
+  font-family: "Tagesschrift", system-ui;
+  font-family: "Playfair Display", serif;
+   font-family: "Roboto", sans-serif;
+    font-family: "WDXL Lubrifont TC", sans-serif;
+       */
+      
+      h1{
+         
+         font-family: "Lobster", sans-serif;
+      }
+      h2{
+        font-family: "Montserrat", sans-serif;
+      }
+      p{
+        font-family: "Montserrat", sans-serif;
+      }
+      h3{
+        font-family: "WDXL Lubrifont TC", sans-serif;
+      }
+      li{
+        font-family: "Montserrat", sans-serif;
+      }
+      .footer{
+        background-color:rgb(82, 78, 78);
+        padding-top: 50px;
+        padding-bottom: 50px;
+
+      }
+    
+      .one{
+        background-color: #ebc9c9;
+      }
+      .two{
+        background-color: #933b3b;
+      }
+      .three{
+        background-color: #935f22;
+      }
+      .four{
+        background-color: #d2d80a;
+      }
+      .five{
+        background-color: #b39670;
+      }
+      .socio-link{
+        text-decoration: none;
+        color: cadetblue;
+        font-size: 1.5em;
+      }
+      .socio-link:hover{
+        color: aqua;
+      }
+      
