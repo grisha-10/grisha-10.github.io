@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(82, 181, 36);
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    text-align: center;
+}
+
+h2 {
+    font-family: "Oswald", sans-serif;
+}
+h3{
+font-family: "Merriweather",
+serif;
+}
+h1{
+    font-family: "Comfortaa",
+sans-serif;
+}
+h4{
+font-family: "Playfair Display",
+serif;
+}
+p{
+font-family: "Merriweather",
+serif;
+}
+
+.card-container {
+    margin: 0 auto;
+    display: block;
+}
+
+.white-text {
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+}
+
+.btn-outline-light {
+    border-width: 2px;
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
+.btn-outline-light:hover {
+    background-color: white;
+    color: rgb(74, 160, 74);
+    transform: scale(1.1);
+}
+
+
+
+
+
